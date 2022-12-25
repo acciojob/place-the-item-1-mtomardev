@@ -1,2 +1,12 @@
+.holder{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
 
-/* Your CSS Code here. */
+.items{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    background-color: bisque;
+}
